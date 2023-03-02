@@ -3,7 +3,6 @@
 
 ### TO DO
 
-- [ ] [AUT 1400-2](https://github.com/Fontzs/AUT1400) C++ programming
 - [ ] [CSAPP](https://github.com/Fontzs/CSAPP) Computer Systems: A Programmer's Perspective
 
 - [ ] [OSTEP](https://github.com/Fontzs/ostep) Operating Systems: Three Easy Pieces
@@ -37,6 +36,7 @@
 - [x] [CS 61A](https://github.com/Fontzs/CS61A) (except scheme)
 - [x] [CS 106L](https://github.com/Fontzs/CS106L) `fa22`
 - [x] [CS 205](https://github.com/Fontzs/CS205) `fa21` no intrest in projects
+- [x] [AUT 1400-2](https://github.com/Fontzs/AUT1400) C++ programming
 
 
 
